@@ -1,0 +1,16 @@
+{
+    "name"         : "PremierLeague",
+    "version"      : "0.0.1",
+    "description"  : "Scrape info about all the Premier League stadiums location and matches",
+    "author"       : "BikashSingh",
+    "main"         : "src/App.js",
+    "dependencies" : {
+        "request"    : "latest",
+        "cheerio"    : "latest"
+    },
+    "repository" : {
+       "type" : "git",
+       "url" : "https://github.com/Bikash_Singh-Github/PremierLeague.git"
+    },
+    "scripts": { "start": "node src/App.js"}
+}

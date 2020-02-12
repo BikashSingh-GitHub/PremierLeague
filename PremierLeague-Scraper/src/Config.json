@@ -1,0 +1,14 @@
+[
+    {
+        "name"       : "PremierLeague",
+        "url"        : "https://www.premierleague.com/tables",
+        "saveToFile" : "stadiumsDB"
+    },
+
+    {
+        "name"       : "MatchScraper",
+        "url"        : "https://www.premierleague.com/results.html",
+        "saveToFile" : "matchesDB"
+    }
+]
+

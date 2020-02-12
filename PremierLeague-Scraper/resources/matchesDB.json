@@ -1,0 +1,394 @@
+[
+    {
+        "date": "2019-09-16T22:00:00.000Z",
+        "time": "16:00",
+        "homeTeam": "Newcastle",
+        "awayTeam": "Man City",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/newcastle-vs-man-city",
+        "location": "St. James' Park"
+    },
+    {
+        "date": "2019-09-17T22:00:00.000Z",
+        "time": "20:00",
+        "homeTeam": "Burnley",
+        "awayTeam": "Chelsea",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/burnley-vs-chelsea",
+        "location": "Turf Moor"
+    },
+    {
+        "date": "2019-09-22T22:00:00.000Z",
+        "time": "12:45",
+        "homeTeam": "Aston Villa",
+        "awayTeam": "Newcastle",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/aston-villa-vs-newcastle",
+        "location": "Villa Park"
+    },
+    {
+        "date": "2019-09-22T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Chelsea",
+        "awayTeam": "Leicester",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/chelsea-vs-leicester",
+        "location": "Stamford Bridge"
+    },
+    {
+        "date": "2019-09-22T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "West Ham",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/crystal-palace-vs-west-ham",
+        "location": "Selhurst Park"
+    },
+    {
+        "date": "2019-09-22T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Southampton",
+        "awayTeam": "West Brom",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/southampton-vs-west-brom",
+        "location": "St. Mary's Stadium"
+    },
+    {
+        "date": "2019-09-22T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Swansea",
+        "awayTeam": "Burnley",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/swansea-vs-burnley",
+        "location": "Liberty Stadium"
+    },
+    {
+        "date": "2019-09-22T22:00:00.000Z",
+        "time": "17:30",
+        "homeTeam": "Everton",
+        "awayTeam": "Arsenal",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/everton-vs-arsenal",
+        "location": "Goodison Park"
+    },
+    {
+        "date": "2019-09-23T22:00:00.000Z",
+        "time": "13:30",
+        "homeTeam": "Hull",
+        "awayTeam": "Stoke",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/hull-vs-stoke",
+        "location": "The KC Stadium"
+    },
+    {
+        "date": "2019-09-23T22:00:00.000Z",
+        "time": "13:30",
+        "homeTeam": "Spurs",
+        "awayTeam": "QPR",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/spurs-vs-qpr",
+        "location": "White Hart Lane"
+    },
+    {
+        "date": "2019-09-23T22:00:00.000Z",
+        "time": "16:00",
+        "homeTeam": "Sunderland",
+        "awayTeam": "Man Utd",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/sunderland-vs-man-utd",
+        "location": "Stadium of Light"
+    },
+    {
+        "date": "2019-09-24T22:00:00.000Z",
+        "time": "20:00",
+        "homeTeam": "Man City",
+        "awayTeam": "Liverpool",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/man-city-vs-liverpool",
+        "location": "Etihad Stadium"
+    },
+    {
+        "date": "2019-09-29T22:00:00.000Z",
+        "time": "12:45",
+        "homeTeam": "Burnley",
+        "awayTeam": "Man Utd",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/burnley-vs-man-utd",
+        "location": "Turf Moor"
+    },
+    {
+        "date": "2019-09-29T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Man City",
+        "awayTeam": "Stoke",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/man-city-vs-stoke",
+        "location": "Etihad Stadium"
+    },
+    {
+        "date": "2019-09-29T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Newcastle",
+        "awayTeam": "Crystal Palace",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/newcastle-vs-crystal-palace",
+        "location": "St. James' Park"
+    },
+    {
+        "date": "2019-09-29T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "QPR",
+        "awayTeam": "Sunderland",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/qpr-vs-sunderland",
+        "location": "Loftus Road Stadium"
+    },
+    {
+        "date": "2019-09-29T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Swansea",
+        "awayTeam": "West Brom",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/swansea-vs-west-brom",
+        "location": "Liberty Stadium"
+    },
+    {
+        "date": "2019-09-29T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "West Ham",
+        "awayTeam": "Southampton",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/west-ham-vs-southampton",
+        "location": "Boleyn Ground"
+    },
+    {
+        "date": "2019-09-29T22:00:00.000Z",
+        "time": "17:30",
+        "homeTeam": "Everton",
+        "awayTeam": "Chelsea",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/everton-vs-chelsea",
+        "location": "Goodison Park"
+    },
+    {
+        "date": "2019-09-30T22:00:00.000Z",
+        "time": "13:30",
+        "homeTeam": "Aston Villa",
+        "awayTeam": "Hull",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/aston-villa-vs-hull",
+        "location": "Villa Park"
+    },
+    {
+        "date": "2019-09-30T22:00:00.000Z",
+        "time": "13:30",
+        "homeTeam": "Spurs",
+        "awayTeam": "Liverpool",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/spurs-vs-liverpool",
+        "location": "White Hart Lane"
+    },
+    {
+        "date": "2019-09-30T22:00:00.000Z",
+        "time": "16:00",
+        "homeTeam": "Leicester",
+        "awayTeam": "Arsenal",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/leicester-vs-arsenal",
+        "location": "King Power Stadium"
+    },
+    {
+        "date": "2019-10-12T22:00:00.000Z",
+        "time": "12:45",
+        "homeTeam": "Arsenal",
+        "awayTeam": "Man City",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/arsenal-vs-man-city",
+        "location": "Emirates Stadium"
+    },
+    {
+        "date": "2019-10-12T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Chelsea",
+        "awayTeam": "Swansea",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/chelsea-vs-swansea",
+        "location": "Stamford Bridge"
+    },
+    {
+        "date": "2019-10-12T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "Burnley",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/crystal-palace-vs-burnley",
+        "location": "Selhurst Park"
+    },
+    {
+        "date": "2019-10-12T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Southampton",
+        "awayTeam": "Newcastle",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/southampton-vs-newcastle",
+        "location": "St. Mary's Stadium"
+    },
+    {
+        "date": "2019-10-12T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Stoke",
+        "awayTeam": "Leicester",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/stoke-vs-leicester",
+        "location": "Britannia Stadium"
+    },
+    {
+        "date": "2019-10-12T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Sunderland",
+        "awayTeam": "Spurs",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/sunderland-vs-spurs",
+        "location": "Stadium of Light"
+    },
+    {
+        "date": "2019-10-12T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "West Brom",
+        "awayTeam": "Everton",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/west-brom-vs-everton",
+        "location": "The Hawthorns"
+    },
+    {
+        "date": "2019-10-12T22:00:00.000Z",
+        "time": "17:30",
+        "homeTeam": "Liverpool",
+        "awayTeam": "Aston Villa",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/liverpool-vs-aston-villa",
+        "location": "Anfield"
+    },
+    {
+        "date": "2019-10-13T22:00:00.000Z",
+        "time": "16:00",
+        "homeTeam": "Man Utd",
+        "awayTeam": "QPR",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/man-utd-vs-qpr",
+        "location": "Old Trafford"
+    },
+    {
+        "date": "2019-10-14T22:00:00.000Z",
+        "time": "20:00",
+        "homeTeam": "Hull",
+        "awayTeam": "West Ham",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/hull-vs-west-ham",
+        "location": "The KC Stadium"
+    },
+    {
+        "date": "2019-10-19T22:00:00.000Z",
+        "time": "12:45",
+        "homeTeam": "QPR",
+        "awayTeam": "Stoke",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/qpr-vs-stoke",
+        "location": "Loftus Road Stadium"
+    },
+    {
+        "date": "2019-10-19T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Aston Villa",
+        "awayTeam": "Arsenal",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/aston-villa-vs-arsenal",
+        "location": "Villa Park"
+    },
+    {
+        "date": "2019-10-19T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Burnley",
+        "awayTeam": "Sunderland",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/burnley-vs-sunderland",
+        "location": "Turf Moor"
+    },
+    {
+        "date": "2019-10-19T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Newcastle",
+        "awayTeam": "Hull",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/newcastle-vs-hull",
+        "location": "St. James' Park"
+    },
+    {
+        "date": "2019-10-19T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Swansea",
+        "awayTeam": "Southampton",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/swansea-vs-southampton",
+        "location": "Liberty Stadium"
+    },
+    {
+        "date": "2019-10-19T22:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Spurs",
+        "awayTeam": "West Brom",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/spurs-vs-west-brom",
+        "location": "White Hart Lane"
+    },
+    {
+        "date": "2019-10-19T22:00:00.000Z",
+        "time": "17:30",
+        "homeTeam": "West Ham",
+        "awayTeam": "Liverpool",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/west-ham-vs-liverpool",
+        "location": "Boleyn Ground"
+    },
+    {
+        "date": "2019-10-20T22:00:00.000Z",
+        "time": "13:30",
+        "homeTeam": "Leicester",
+        "awayTeam": "Man Utd",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/leicester-vs-man-utd",
+        "location": "King Power Stadium"
+    },
+    {
+        "date": "2019-10-20T22:00:00.000Z",
+        "time": "16:00",
+        "homeTeam": "Everton",
+        "awayTeam": "Crystal Palace",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/everton-vs-crystal-palace",
+        "location": "Goodison Park"
+    },
+    {
+        "date": "2019-10-20T22:00:00.000Z",
+        "time": "16:00",
+        "homeTeam": "Man City",
+        "awayTeam": "Chelsea",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/man-city-vs-chelsea",
+        "location": "Etihad Stadium"
+    },
+    {
+        "date": "2019-10-26T23:00:00.000Z",
+        "time": "12:45",
+        "homeTeam": "Liverpool",
+        "awayTeam": "Everton",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/liverpool-vs-everton",
+        "location": "Anfield"
+    },
+    {
+        "date": "2019-10-26T23:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Chelsea",
+        "awayTeam": "Aston Villa",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/chelsea-vs-aston-villa",
+        "location": "Stamford Bridge"
+    },
+    {
+        "date": "2019-10-26T23:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "Leicester",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/crystal-palace-vs-leicester",
+        "location": "Selhurst Park"
+    },
+    {
+        "date": "2019-10-26T23:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Hull",
+        "awayTeam": "Man City",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/hull-vs-man-city",
+        "location": "The KC Stadium"
+    },
+    {
+        "date": "2019-10-26T23:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Man Utd",
+        "awayTeam": "West Ham",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/man-utd-vs-west-ham",
+        "location": "Old Trafford"
+    },
+    {
+        "date": "2019-10-26T23:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Southampton",
+        "awayTeam": "QPR",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/southampton-vs-qpr",
+        "location": "St. Mary's Stadium"
+    },
+    {
+        "date": "2019-10-26T23:00:00.000Z",
+        "time": "15:00",
+        "homeTeam": "Sunderland",
+        "awayTeam": "Swansea",
+        "matchURL": "/en-gb/matchday/matches/2019-2020/epl.match-preview.html/sunderland-vs-swansea",
+        "location": "Stadium of Light"
+    },
+ 

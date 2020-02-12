@@ -1,0 +1,532 @@
+[
+    {
+        "name": "Anfield",
+        "club": "Liverpool F.C.",
+        "city": "Liverpool",
+        "opened": "1884",
+        "closed": "",
+        "capacity": "45,362",
+        "latitude": 53.43083333333333,
+        "longitude": -2.9608333333333334
+    },
+    {
+        "name": "Ayresome Park",
+        "club": "Middlesbrough F.C.",
+        "city": "Middlesbrough",
+        "opened": "1903",
+        "closed": "1995",
+        "capacity": "26,667†",
+        "latitude": 54.564166666666665,
+        "longitude": -1.2469444444444444
+    },
+    {
+        "name": "Baseball Ground",
+        "club": "Derby County F.C.",
+        "city": "Derby",
+        "opened": "1892",
+        "closed": "2004",
+        "capacity": "18,300†",
+        "latitude": 52.90472222222222,
+        "longitude": -1.468611111111111
+    },
+    {
+        "name": "Bloomfield Road",
+        "club": "Blackpool F.C.",
+        "city": "Blackpool",
+        "opened": "1899",
+        "closed": "",
+        "capacity": "16,220‡",
+        "latitude": 53.804722222222225,
+        "longitude": -3.0480555555555555
+    },
+    {
+        "name": "Boleyn Ground",
+        "club": "West Ham United F.C.",
+        "city": "London",
+        "opened": "1904",
+        "closed": "",
+        "capacity": "35,303",
+        "latitude": 51.53194444444444,
+        "longitude": 0.03944444444444444
+    },
+    {
+        "name": "Boundary Park",
+        "club": "Oldham Athletic A.F.C.",
+        "city": "Oldham",
+        "opened": "1904",
+        "closed": "",
+        "capacity": "10,638",
+        "latitude": 53.555277777777775,
+        "longitude": -2.1286111111111112
+    },
+    {
+        "name": "Bramall Lane",
+        "club": "Sheffield United F.C.",
+        "city": "Sheffield",
+        "opened": "1855",
+        "closed": "",
+        "capacity": "32,702",
+        "latitude": 53.37027777777778,
+        "longitude": -1.4708333333333332
+    },
+    {
+        "name": "Britannia Stadium",
+        "club": "Stoke City F.C.",
+        "city": "Stoke-on-Trent",
+        "opened": "1997",
+        "closed": "",
+        "capacity": "28,383",
+        "latitude": 52.98833333333333,
+        "longitude": -2.1755555555555555
+    },
+    {
+        "name": "Burnden Park",
+        "club": "Bolton Wanderers F.C.",
+        "city": "Bolton",
+        "opened": "1895",
+        "closed": "1997",
+        "capacity": "22,616†",
+        "latitude": 53.568888888888885,
+        "longitude": -2.4161111111111113
+    },
+    {
+        "name": "Cardiff City Stadium",
+        "club": "Cardiff City F.C.",
+        "city": "Cardiff",
+        "opened": "2009",
+        "closed": "",
+        "capacity": "26,828",
+        "latitude": 51.47277777777778,
+        "longitude": -3.2030555555555553
+    },
+    {
+        "name": "Carrow Road",
+        "club": "Norwich City F.C.",
+        "city": "Norwich",
+        "opened": "1935",
+        "closed": "",
+        "capacity": "27,033",
+        "latitude": 52.62222222222222,
+        "longitude": 1.3091666666666666
+    },
+    {
+        "name": "City Ground",
+        "club": "Nottingham Forest F.C.",
+        "city": "Nottingham",
+        "opened": "1898",
+        "closed": "",
+        "capacity": "30,602",
+        "latitude": 52.94,
+        "longitude": -1.1327777777777777
+    },
+    {
+        "name": "City of Manchester Stadium",
+        "club": "Manchester City F.C.",
+        "city": "Manchester",
+        "opened": "2003[17]",
+        "closed": "",
+        "capacity": "47,726",
+        "latitude": 53.48305555555555,
+        "longitude": -2.200277777777778
+    },
+    {
+        "name": "County Ground",
+        "club": "Swindon Town F.C.",
+        "city": "Swindon",
+        "opened": "1895",
+        "closed": "",
+        "capacity": "14,700‡",
+        "latitude": 51.56444444444445,
+        "longitude": -1.7705555555555557
+    },
+    {
+        "name": "Craven Cottage",
+        "club": "Fulham F.C.",
+        "city": "London",
+        "opened": "1896",
+        "closed": "",
+        "capacity": "25,700",
+        "latitude": 51.475,
+        "longitude": -0.22166666666666668
+    },
+    {
+        "name": "The Dell",
+        "club": "Southampton F.C.",
+        "city": "Southampton",
+        "opened": "1898",
+        "closed": "2001",
+        "capacity": "15,200†",
+        "latitude": 50.914722222222224,
+        "longitude": -1.4130555555555555
+    },
+    {
+        "name": "DW Stadium",
+        "club": "Wigan Athletic F.C.",
+        "city": "Wigan",
+        "opened": "1999",
+        "closed": "",
+        "capacity": "25,138",
+        "latitude": 53.5475,
+        "longitude": -2.654166666666667
+    },
+    {
+        "name": "Elland Road",
+        "club": "Leeds United A.F.C.",
+        "city": "Leeds",
+        "opened": "1897",
+        "closed": "",
+        "capacity": "39,460",
+        "latitude": 53.77777777777778,
+        "longitude": -1.5722222222222222
+    },
+    {
+        "name": "Emirates Stadium",
+        "club": "Arsenal F.C.",
+        "city": "London",
+        "opened": "2006",
+        "closed": "",
+        "capacity": "60,355",
+        "latitude": 51.555,
+        "longitude": -0.10861111111111112
+    },
+    {
+        "name": "Ewood Park",
+        "club": "Blackburn Rovers F.C.",
+        "city": "Blackburn",
+        "opened": "1890",
+        "closed": "",
+        "capacity": "31,367",
+        "latitude": 53.728611111111114,
+        "longitude": -2.4891666666666667
+    },
+    {
+        "name": "Filbert Street",
+        "club": "Leicester City F.C.",
+        "city": "Leicester",
+        "opened": "1891",
+        "closed": "2002",
+        "capacity": "22,000†",
+        "latitude": 52.62361111111111,
+        "longitude": -1.1405555555555555
+    },
+    {
+        "name": "Fratton Park",
+        "club": "Portsmouth F.C.",
+        "city": "Portsmouth",
+        "opened": "1898",
+        "closed": "",
+        "capacity": "20,978",
+        "latitude": 50.79638888888889,
+        "longitude": -1.0638888888888889
+    },
+    {
+        "name": "Goodison Park",
+        "club": "Everton F.C.",
+        "city": "Liverpool",
+        "opened": "1892",
+        "closed": "",
+        "capacity": "40,157",
+        "latitude": 53.43888888888889,
+        "longitude": -2.966388888888889
+    },
+    {
+        "name": "The Hawthorns",
+        "club": "West Bromwich Albion F.C.",
+        "city": "West Bromwich",
+        "opened": "1900",
+        "closed": "",
+        "capacity": "26,500",
+        "latitude": 52.509166666666665,
+        "longitude": -1.963888888888889
+    },
+    {
+        "name": "Highbury",
+        "club": "Arsenal F.C.",
+        "city": "London",
+        "opened": "1913",
+        "closed": "2006",
+        "capacity": "38,419†",
+        "latitude": 51.55777777777778,
+        "longitude": -0.10277777777777777
+    },
+    {
+        "name": "Highfield Road",
+        "club": "Coventry City F.C.",
+        "city": "Coventry",
+        "opened": "1899",
+        "closed": "2005",
+        "capacity": "23,489†",
+        "latitude": 52.411944444444444,
+        "longitude": -1.49
+    },
+    {
+        "name": "Hillsborough Stadium",
+        "club": "Sheffield Wednesday F.C.",
+        "city": "Sheffield",
+        "opened": "1899",
+        "closed": "",
+        "capacity": "39,812",
+        "latitude": 53.41138888888889,
+        "longitude": -1.5005555555555556
+    },
+    {
+        "name": "KC Stadium",
+        "club": "Hull City A.F.C.",
+        "city": "Kingston upon Hull",
+        "opened": "2002",
+        "closed": "",
+        "capacity": "25,404",
+        "latitude": 53.74611111111111,
+        "longitude": -0.3675
+    },
+    {
+        "name": "King Power Stadium",
+        "club": "Leicester City F.C.",
+        "city": "Leicester",
+        "opened": "2002",
+        "closed": "",
+        "capacity": "32,500",
+        "latitude": 52.62027777777778,
+        "longitude": -1.1422222222222222
+    },
+    {
+        "name": "Liberty Stadium",
+        "club": "Swansea City F.C.",
+        "city": "Swansea",
+        "opened": "2005",
+        "closed": "",
+        "capacity": "20,532",
+        "latitude": 51.64277777777778,
+        "longitude": -3.9347222222222222
+    },
+    {
+        "name": "Loftus Road",
+        "club": "Queens Park Rangers F.C.",
+        "city": "London",
+        "opened": "1904",
+        "closed": "",
+        "capacity": "18,439",
+        "latitude": 51.509166666666665,
+        "longitude": -0.23222222222222222
+    },
+    {
+        "name": "Madejski Stadium",
+        "club": "Reading F.C.",
+        "city": "Reading",
+        "opened": "1998",
+        "closed": "",
+        "capacity": "24,161",
+        "latitude": 51.422222222222224,
+        "longitude": -0.9827777777777778
+    },
+    {
+        "name": "Maine Road",
+        "club": "Manchester City F.C.",
+        "city": "Manchester",
+        "opened": "1923",
+        "closed": "2003",
+        "capacity": "35,150†",
+        "latitude": 53.45111111111111,
+        "longitude": -2.2352777777777777
+    },
+    {
+        "name": "Molineux Stadium",
+        "club": "Wolverhampton Wanderers F.C.",
+        "city": "Wolverhampton",
+        "opened": "1889",
+        "closed": "",
+        "capacity": "31,700‡",
+        "latitude": 52.59027777777778,
+        "longitude": -2.1302777777777777
+    },
+    {
+        "name": "Oakwell",
+        "club": "Barnsley F.C.",
+        "city": "Barnsley",
+        "opened": "1887",
+        "closed": "",
+        "capacity": "23,009",
+        "latitude": 53.55222222222222,
+        "longitude": -1.4675
+    },
+    {
+        "name": "Old Trafford",
+        "club": "Manchester United F.C.",
+        "city": "Manchester",
+        "opened": "1910",
+        "closed": "",
+        "capacity": "76,212",
+        "latitude": 53.463055555555556,
+        "longitude": -2.2913888888888887
+    },
+    {
+        "name": "Portman Road",
+        "club": "Ipswich Town F.C.",
+        "city": "Ipswich",
+        "opened": "1884",
+        "closed": "",
+        "capacity": "30,311",
+        "latitude": 52.055,
+        "longitude": 1.1447222222222222
+    },
+    {
+        "name": "Pride Park Stadium",
+        "club": "Derby County F.C.",
+        "city": "Derby",
+        "opened": "1997",
+        "closed": "",
+        "capacity": "33,597",
+        "latitude": 52.915,
+        "longitude": -1.4472222222222222
+    },
+    {
+        "name": "Reebok Stadium",
+        "club": "Bolton Wanderers F.C.",
+        "city": "Bolton",
+        "opened": "1997",
+        "closed": "",
+        "capacity": "28,723",
+        "latitude": 53.580555555555556,
+        "longitude": -2.535555555555556
+    },
+    {
+        "name": "Riverside Stadium",
+        "club": "Middlesbrough F.C.",
+        "city": "Middlesbrough",
+        "opened": "1995",
+        "closed": "",
+        "capacity": "34,988",
+        "latitude": 54.57833333333333,
+        "longitude": -1.2169444444444444
+    },
+    {
+        "name": "Roker Park",
+        "club": "Sunderland A.F.C.",
+        "city": "Sunderland",
+        "opened": "1898",
+        "closed": "1997",
+        "capacity": "22,500†",
+        "latitude": 54.92138888888889,
+        "longitude": -1.3755555555555556
+    },
+    {
+        "name": "St Andrew's",
+        "club": "Birmingham City F.C.",
+        "city": "Birmingham",
+        "opened": "1906",
+        "closed": "",
+        "capacity": "30,079",
+        "latitude": 52.475833333333334,
+        "longitude": -1.8680555555555556
+    },
+    {
+        "name": "St. James' Park",
+        "club": "Newcastle United F.C.",
+        "city": "Newcastle",
+        "opened": "1880",
+        "closed": "",
+        "capacity": "52,387",
+        "latitude": 54.97555555555556,
+        "longitude": -1.6216666666666666
+    },
+    {
+        "name": "St Mary's Stadium",
+        "club": "Southampton F.C.",
+        "city": "Southampton",
+        "opened": "2001",
+        "closed": "",
+        "capacity": "32,689",
+        "latitude": 50.905833333333334,
+        "longitude": -1.3911111111111112
+    },
+    {
+        "name": "Selhurst Park",
+        "club": "Crystal Palace F.C.",
+        "city": "London",
+        "opened": "1924",
+        "closed": "",
+        "capacity": "26,309",
+        "latitude": 51.39833333333333,
+        "longitude": -0.08555555555555555
+    },
+    {
+        "name": "Stadium of Light",
+        "club": "Sunderland A.F.C.",
+        "city": "Sunderland",
+        "opened": "1997",
+        "closed": "",
+        "capacity": "49,000",
+        "latitude": 54.91444444444444,
+        "longitude": -1.3883333333333332
+    },
+    {
+        "name": "Stamford Bridge",
+        "club": "Chelsea F.C.",
+        "city": "London",
+        "opened": "1877",
+        "closed": "",
+        "capacity": "42,055",
+        "latitude": 51.48166666666667,
+        "longitude": -0.19111111111111112
+    },
+    {
+        "name": "Turf Moor",
+        "club": "Burnley F.C.",
+        "city": "Burnley",
+        "opened": "1883",
+        "closed": "",
+        "capacity": "22,546",
+        "latitude": 53.78916666666667,
+        "longitude": -2.230277777777778
+    },
+    {
+        "name": "The Valley",
+        "club": "Charlton Athletic F.C.",
+        "city": "London",
+        "opened": "1919",
+        "closed": "",
+        "capacity": "27,111",
+        "latitude": 51.48638888888889,
+        "longitude": 0.03638888888888889
+    },
+    {
+        "name": "Valley Parade",
+        "club": "Bradford City A.F.C.",
+        "city": "Bradford",
+        "opened": "1886",
+        "closed": "",
+        "capacity": "25,136",
+        "latitude": 53.80416666666667,
+        "longitude": -1.758888888888889
+    },
+    {
+        "name": "Vicarage Road",
+        "club": "Watford F.C.",
+        "city": "Watford",
+        "opened": "1922",
+        "closed": "",
+        "capacity": "19,920‡",
+        "latitude": 51.65,
+        "longitude": -0.40166666666666667
+    },
+    {
+        "name": "Villa Park",
+        "club": "Aston Villa F.C.",
+        "city": "Birmingham",
+        "opened": "1897",
+        "closed": "",
+        "capacity": "42,788",
+        "latitude": 52.509166666666665,
+        "longitude": -1.8847222222222222
+    },
+    {
+        "name": "White Hart Lane",
+        "club": "Tottenham Hotspur F.C.",
+        "city": "London",
+        "opened": "1899",
+        "closed": "",
+        "capacity": "36,310",
+        "latitude": 51.60333333333333,
+        "longitude": -0.06583333333333333
+    }
+]
